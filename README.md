@@ -33,7 +33,7 @@ Final application to resemble the following mock-up:
 
 ## Final Submission
 ---
-1. Portfolio application is deployed and can be seen at: [Potfolio](https://me-ross.github.io/password-generator/)
+1. Password Generate application is deployed and can be seen at: [Password Generator](https://me-ross.github.io/password-generator/)
 
-2. Repository for Portfolio can be found at: [GitHub](https://github.com/Me-ross/)
+2. Repository for Generate Password application can be found at: [GitHub](https://github.com/Me-ross/password-generator/)
 
